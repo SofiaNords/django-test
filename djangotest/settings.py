@@ -30,8 +30,8 @@ SECRET_KEY = 'django-insecure-w(^+7_ul7o!7gnwuxh+jinynsx!6%*n613(u!r%51^*^y@^izy
 DEBUG = False
 
 ALLOWED_HOSTS = [
-    '8000-sofianords-djangotest-b9bdkghzz6v.ws-eu111.gitpod.io','.herokuapp.com',
-]
+    '8000-sofianords-djangotest-b9bdkghzz6v.ws-eu111.gitpod.io',
+    '.herokuapp.com']
 
 
 # Application definition
